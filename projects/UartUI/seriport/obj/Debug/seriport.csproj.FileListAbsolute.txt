@@ -1,0 +1,5 @@
+C:\Users\din21\Documents\SharpDevelop Projects\seriport\seriport\bin\Debug\seriport.exe
+C:\Users\din21\Documents\SharpDevelop Projects\seriport\seriport\bin\Debug\seriport.pdb
+C:\Users\din21\Documents\SharpDevelop Projects\seriport\seriport\obj\Debug\seriport.csprojResolveAssemblyReference.cache
+C:\Users\din21\Documents\SharpDevelop Projects\seriport\seriport\obj\Debug\seriport.exe
+C:\Users\din21\Documents\SharpDevelop Projects\seriport\seriport\obj\Debug\seriport.pdb
